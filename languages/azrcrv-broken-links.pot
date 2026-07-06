@@ -1,0 +1,154 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Broken Links\n"
+"POT-Creation-Date: 2026-07-06 00:00+0000\n"
+"PO-Revision-Date: 2026-07-06 00:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: translate@azurecurve.co.uk\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: azrcrv-broken-links.php\n"
+"X-Poedit-SearchPath-1: includes\n"
+
+msgid "%1$d links checked / %2$d links working / %3$d links broken / %4$d could not be checked."
+msgstr ""
+
+msgid "%1$s was one of the first plugin developers to start developing for ClassicPress; all plugins are available from %2$s and are integrated with the %3$s plugin for fully integrated, no hassle, updates."
+msgstr ""
+
+msgid "(no title)"
+msgstr ""
+
+msgid "A link marked "Could not be checked" means the request timed out or the destination could not be reached during the check — it is not necessarily broken, and you may want to check it again or visit it manually."
+msgstr ""
+
+msgid "Active Plugins"
+msgstr ""
+
+msgid "All link types"
+msgstr ""
+
+msgid "All post types"
+msgstr ""
+
+msgid "Broken"
+msgstr ""
+
+msgid "Broken Links checks the content of the post types selected below for links, images, and BBCode link/url/img shortcodes, and reports which ones appear to be broken or could not be checked. The check only ever runs when you click "Check for broken links" on the Check Links tab; it is never scheduled and never runs on the front end."
+msgstr ""
+
+msgid "Broken Links is a manual checking tool: it never runs automatically or on a schedule, and it has no effect on the front end of your site. It checks ordinary links and images, as well as BBCode link, url, and img shortcodes."
+msgstr ""
+
+msgid "Check Links"
+msgstr ""
+
+msgid "Check for broken links"
+msgstr ""
+
+msgid "Congratulations! You\'re using all of the %s plugins."
+msgstr ""
+
+msgid "Could not be checked"
+msgstr ""
+
+msgid "Exclude URLs containing"
+msgstr ""
+
+msgid "Filter by link type:"
+msgstr ""
+
+msgid "Filter by post type:"
+msgstr ""
+
+msgid "Found In"
+msgstr ""
+
+msgid "Instructions"
+msgstr ""
+
+msgid "Last checked: %s"
+msgstr ""
+
+msgid "Link"
+msgstr ""
+
+msgid "Link Type"
+msgstr ""
+
+msgid "No broken or unreachable links found — run a check to see results here."
+msgstr ""
+
+msgid "On the Check Links tab, click "Check for broken links" whenever you want to run a check. Depending on how many posts, links, and images your site has, this may take a little while to complete."
+msgstr ""
+
+msgid "On the Settings tab, choose which post types should be checked, and optionally exclude URLs containing a particular piece of text (for example, a domain you know is temporarily unreachable)."
+msgstr ""
+
+msgid "Once the check finishes, the Check Links tab shows a summary of how many links were checked, working, broken, or could not be checked, and lists every broken or unreachable item — working links are counted in the summary but not listed individually. Each row shows the post type, the page it was found in (click the title to edit it), the type of link (Link, Image, BBCode Link, BBCode URL, or BBCode Image), and its status. Use the post type and link type filters to narrow the list."
+msgstr ""
+
+msgid "Optional. Links containing this text will be skipped, e.g. a domain you know is only temporarily unreachable."
+msgstr ""
+
+msgid "Other Available Plugins"
+msgstr ""
+
+msgid "Other Plugins"
+msgstr ""
+
+msgid "Other plugins available from %s, which you are not using, are:"
+msgstr ""
+
+msgid "Post Type"
+msgstr ""
+
+msgid "Post types to check"
+msgstr ""
+
+msgid "Save Settings"
+msgstr ""
+
+msgid "Save your settings."
+msgstr ""
+
+msgid "Scan complete — see the Check Links tab for results."
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Settings have been saved."
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Support"
+msgstr ""
+
+msgid "The %s plugins active on your site are:"
+msgstr ""
+
+msgid "The other plugins available from %s are:"
+msgstr ""
+
+msgid "This has not been run yet."
+msgstr ""
+
+msgid "You can help support the development of our free plugins by donating a small amount of money."
+msgstr ""
+
+msgid "You do not have permissions to perform this action"
+msgstr ""
+
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+

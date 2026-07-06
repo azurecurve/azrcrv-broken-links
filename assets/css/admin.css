@@ -1,0 +1,28 @@
+/*
+	Broken Links admin styles
+*/
+.azrcrv-bl-results-table {
+	margin-top: 8px;
+}
+.azrcrv-bl-results-table td,
+.azrcrv-bl-results-table th {
+	vertical-align: middle;
+}
+.azrcrv-bl-status-working {
+	color: #1a7f37;
+	font-weight: 600;
+}
+.azrcrv-bl-status-broken {
+	color: #b32d2e;
+	font-weight: 600;
+}
+.azrcrv-bl-status-unknown {
+	color: #996800;
+	font-weight: 600;
+}
+#azrcrv-bl-filter-row {
+	margin-bottom: 8px;
+}
+.azrcrv-bl-totals {
+	font-size: 1.05em;
+}

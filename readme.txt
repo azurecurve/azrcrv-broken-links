@@ -1,5 +1,10 @@
-# [Broken Links](https://development.azurecurve.co.uk/classicpress-plugins/broken-links/)
-![Plugin Banner](/assets/pluginimages/banner-1544x500.png)
+=== Broken Links ===
+
+== Description ==
+
+Check the content of your posts and pages for broken links from a dedicated admin screen, with results filterable by post type.
+
+== Description ==
 
 # Description
 
@@ -9,13 +14,37 @@ Results show a summary of how many items were checked, working, broken, or could
 
 This plugin is multisite compatible; each site will need settings to be configured in the admin dashboard.
 
+== Installation ==
+
 # Installation Instructions
 
  * Download the latest release of the plugin from [GitHub](https://github.com/azurecurve/azrcrv-broken-links/releases/latest/).
  * Upload the entire zip file using the Plugins upload function in your ClassicPress admin panel.
  * Activate the plugin.
  * Configure which post types to check via the configuration page in the admin control panel (azurecurve menu), then use the Results tab to run a check.
- 
+
+== Frequently Asked Questions ==
+
+# Frequently Asked Questions
+
+### Can I translate this plugin?
+Yes, the .pot file is in the plugins languages folder; if you do translate this plugin, please sent the .po and .mo files to translations@azurecurve.co.uk for inclusion in the next version (full credit will be given).
+
+### Is this plugin compatible with both WordPress and ClassicPress?
+This plugin is developed for ClassicPress, but will likely work on WordPress.
+
+### Does this plugin check links automatically or on a schedule?
+No. Checking for broken links is a manual action: nothing runs until you click "Check for broken links" on the Results tab, and the plugin has no effect on the front end of your site.
+
+== Changelog ==
+
+# Changelog
+
+### [Version 1.0.0](https://github.com/azurecurve/azrcrv-broken-links/releases/tag/v1.0.0)
+ * Initial release.
+
+== Other Notes ==
+
 # About azurecurve
 
 **azurecurve** was one of the first plugin developers to start developing for ClassicPress; all plugins are available from [azurecurve Development](https://development.azurecurve.co.uk/) and are integrated with the [Update Manager plugin](https://directory.classicpress.net/plugins/update-manager) for fully integrated, no hassle, updates.
