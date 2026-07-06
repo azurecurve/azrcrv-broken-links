@@ -1,5 +1,5 @@
 # [Broken Links](https://development.azurecurve.co.uk/classicpress-plugins/broken-links/)
-![Plugin Banner](/assets/pluginimages/banner-1544x500.png)
+![Plugin Banner](/assets/images/banner-1544x500.png)
 
 # Description
 
